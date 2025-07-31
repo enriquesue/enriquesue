@@ -1,5 +1,5 @@
-## Hi there 👋
-Proyecto de probabilidad
+## Enrique Sue
+Proyecto de probabilidad Aplicada a TIC
 
 <!--
 **enriquesue/enriquesue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
